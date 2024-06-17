@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3B1B55-E028-494E-B965-C51A52DB8C98}|NeuralNetwork\\NeuralNetwork.vcxproj|X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F3B1B55-E028-494E-B965-C51A52DB8C98}|NeuralNetwork\\NeuralNetwork.vcxproj|solutionrelative:NeuralNetwork\\application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3B1B55-E028-494E-B965-C51A52DB8C98}|NeuralNetwork\\NeuralNetwork.vcxproj|X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\neural_network.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F3B1B55-E028-494E-B965-C51A52DB8C98}|NeuralNetwork\\NeuralNetwork.vcxproj|solutionrelative:NeuralNetwork\\neural_network.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3B1B55-E028-494E-B965-C51A52DB8C98}|NeuralNetwork\\NeuralNetwork.vcxproj|X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\math_ai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F3B1B55-E028-494E-B965-C51A52DB8C98}|NeuralNetwork\\NeuralNetwork.vcxproj|solutionrelative:NeuralNetwork\\math_ai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3B1B55-E028-494E-B965-C51A52DB8C98}|NeuralNetwork\\NeuralNetwork.vcxproj|X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\math_ai.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F3B1B55-E028-494E-B965-C51A52DB8C98}|NeuralNetwork\\NeuralNetwork.vcxproj|solutionrelative:NeuralNetwork\\math_ai.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3B1B55-E028-494E-B965-C51A52DB8C98}|NeuralNetwork\\NeuralNetwork.vcxproj|X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F3B1B55-E028-494E-B965-C51A52DB8C98}|NeuralNetwork\\NeuralNetwork.vcxproj|solutionrelative:NeuralNetwork\\application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3B1B55-E028-494E-B965-C51A52DB8C98}|NeuralNetwork\\NeuralNetwork.vcxproj|X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\neural_network.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F3B1B55-E028-494E-B965-C51A52DB8C98}|NeuralNetwork\\NeuralNetwork.vcxproj|solutionrelative:NeuralNetwork\\neural_network.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 269,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "math_ai.h",
+              "DocumentMoniker": "X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\math_ai.h",
+              "RelativeDocumentMoniker": "NeuralNetwork\\math_ai.h",
+              "ToolTip": "X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\math_ai.h",
+              "RelativeToolTip": "NeuralNetwork\\math_ai.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-15T15:30:02.259Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "math_ai.cpp",
+              "DocumentMoniker": "X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\math_ai.cpp",
+              "RelativeDocumentMoniker": "NeuralNetwork\\math_ai.cpp",
+              "ToolTip": "X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\math_ai.cpp",
+              "RelativeToolTip": "NeuralNetwork\\math_ai.cpp",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAADwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T22:35:19.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "application.h",
+              "DocumentMoniker": "X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\application.h",
+              "RelativeDocumentMoniker": "NeuralNetwork\\application.h",
+              "ToolTip": "X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\application.h",
+              "RelativeToolTip": "NeuralNetwork\\application.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-09T21:01:04.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "application.cpp",
+              "DocumentMoniker": "X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\application.cpp",
+              "RelativeDocumentMoniker": "NeuralNetwork\\application.cpp",
+              "ToolTip": "X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\application.cpp",
+              "RelativeToolTip": "NeuralNetwork\\application.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-06T09:51:57.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "neural_network.h",
+              "DocumentMoniker": "X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\neural_network.h",
+              "RelativeDocumentMoniker": "NeuralNetwork\\neural_network.h",
+              "ToolTip": "X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\neural_network.h",
+              "RelativeToolTip": "NeuralNetwork\\neural_network.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-09T13:17:58.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "neural_network.cpp",
+              "DocumentMoniker": "X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\neural_network.cpp",
+              "RelativeDocumentMoniker": "NeuralNetwork\\neural_network.cpp",
+              "ToolTip": "X:\\Projects\\neural_network_cpp_2\\NeuralNetwork\\NeuralNetwork\\neural_network.cpp",
+              "RelativeToolTip": "NeuralNetwork\\neural_network.cpp",
+              "ViewState": "AQIAAHQEAAAAAAAAAAAIwJYEAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-06T12:33:47.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 116,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -33,16 +33,15 @@
     - Softmax normalizes the output layer's activations into probabilities that sum to 1, representing the
       probability of each class.      
 
-> [!NOTE]
-> The "optimal" activation function can vary depending on your specific dataset and problem.
-> Experimentation is often key. It's a good practice to start with the recommended choices above and then compare
+Note:
+- The "optimal" activation function can vary depending on your specific dataset and problem.
+- Experimentation is often key. It's a good practice to start with the recommended choices above and then compare
   different options using techniques like grid search or random search to find the best-performing combination
   for your situation.
 
 ## Version History:
 *Ordered by year.*
 
-  | Version | Year | Language | Description |
-  | :--- | :--- | :--- | :--- |
-  | 1.0 | 1987 | BASIC | First attempt at building an ANN, on a Commodore VIC20. A variation |
-  |     |      |       | of the Monte Carlo (MC) method was used to train the weights. |
+| Version | Year | Language | Description |
+
+                        

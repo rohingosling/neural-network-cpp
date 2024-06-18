@@ -80,5 +80,44 @@ x0     x1     x2     y      Comment
 0.010  0.002  0.666  0.005  Multiplication: 10 / 2 = 5
 ```
 
+<br>
 
-                        
+| Version: 1.1 | Year: 1988 | Language: 6502 Machine Language |
+| :--- | :--- | :--- |
+
+Version 1.1 was a 6502 machine language version of version 1.0. Mostly the same, but offering faster convergence, and could support up to 1024 weights (parameters). 
+
+<br>
+
+| Version: 2.0 | Year: 1992 | Language: C (Borland Turbo C) |
+| :--- | :--- | :--- |
+
+Complete rewrite in C, targeting an 8086 XT with 1MB RAM. This version could support up to 128,000 weights (parameters), and was successfully used to both predict stock market prices and classify technical features of stock market price data.
+
+The market prediction model I employed at the time, used a classification model built with version 2.0, to enrich historical price data features with additional technical features, that fed into a regression model also created with version 2.0, to improve prediction accuracy.
+
+<br>
+
+| Version: 1.2 | Year: 1993 | Language: 6502 Machine Language |
+| :--- | :--- | :--- |
+
+Fun "retro-computing" project, to upgrade my original Commodore VIC20 code to support a Commodore 64, after being donated a Commodore 64 from my girlfriend at the time.
+
+This version supported up to 16,000 weights. I tested it with simulated stock market data. The results showed that theoretically, an ANN implemented on a Commodore 64 could, in theory, be used for practical stock market prediction and classification tasks in the 1980s, had it been built in the 1980s.
+
+<br>
+
+| Version: 1.3 | Year: 1993 | Language: 6502 Machine Language |
+| :--- | :--- | :--- |
+
+Another fun "retro-computing" project to upgrade the Commodore 64 version to use Backpropagation. After getting this to work, I discovered that the Monte Carlo (MC) method I had employed in the original version was actually faster, and better at finding solutions closer to a global optima.                                 
+
+<br>
+
+| Version: 2.1 | Year: 1993 | Language: C, 80x86 Assembly Language |
+| :--- | :--- | :--- |
+
+Upgrade to 2.0, which replaced slow C functions with inline 80x86 Assembler versions of those functions. Everything else was the same as version 2.0, but with faster convergence.
+
+
+

@@ -44,4 +44,5 @@ Note:
 
 | Version | Year | Language | Description |
 | :--- | :--- | :--- | :--- |
+| 1.0 | 1987 | BASCI | First attempt at building an ANN, on a Commodore VIC20. A variation of the Monte Carlo (MC) method was used to train the weights. |
                         

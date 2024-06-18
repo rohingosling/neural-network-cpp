@@ -42,9 +42,30 @@
 ## Version History:
 *Ordered by year.*
 
-| 1.0 | 1987 | BASCI |
+| Version: 1.0 | Year: 1987 | Language: BASCIC |
 | :--- | :--- | :--- |
 
-First attempt at building an ANN, on a Commodore VIC20. A variation of the Monte Carlo (MC) method was used to train the weights.
-Hello World! |
+First attempt at building an ANN, on a Commodore VIC20. A variation of the Monte Carlo (MC) method was used to train the weights.<be>
+
+**Note:**
+- I did not know how to implement Backpropagation at the time, hence the use of MC.
+- It later turned out, by accident really, that MC offered faster convergence, when I later learned how to implement Backpropagation and compared it with MC.
+
+This initial VIC20 version of the ANN was able to support up to 256 weights (parameters). While not very practical, it was enough to test the ANN on a learning task to learn how to compute binary mathematical operators on 16-bit numbers.
+
+Because the VIC20 had less than 5k of usable RAM, the training data was generated in real-time row-by-row, eliminating the need for a file of training data. The training data was structured as follows.
+
+**Features:**
+- x0 : 16-bit number. Operator operand A.
+- x1 : 16-bit number. Operator operand B.
+- x2 : 16-bit number. Operator, (+,-,*,/).
+  - +(A,B) = 0.000
+  - -(A,B) = 0.333
+  - *(A,B) = 0.666
+  - /(A,B) = 1.000
+
+**Target/s:**
+- y : 16-bit number. Normalized result of, *y = Operator (A,B)*.
+
+
                         

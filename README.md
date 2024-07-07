@@ -42,11 +42,11 @@
 ## To-Do:
 1. Re-add support for different types of weight initialization.
  
--- Xavier/Glorot Initialization:
-   This method works well with activation functions like tanh and sigmoid.
+   - Xavier/Glorot Initialization:
+     This method works well with activation functions like tanh and sigmoid.
       
--- He Initialization:
-   This method works well with activation functions like ReLU.
+   - He Initialization:
+     This method works well with activation functions like ReLU.
  
 2. Add a log file. 
 

@@ -205,6 +205,65 @@ Upgrade to use Nvidia CUDA API.
 Note:
 Work on my C++ machine learning suite of classes winding down, as most new work and research is migrating to Python.
 
+<br>
+
+| Version: 5.0 | Year: 2013 | Language: C++ |
+| :--- | :--- | :--- |
+
+Complete rewrite from scratch to support a new framework for integrating existing ML classes to work with C# .NET trading bots written for the cTrader cAlgo Forex trading platform.
+
+Status:
+- Incomplete.
+- Started migrating to Python for all new machine learning integration with cTrader for building market prediction and classification models.
+- All language model research migrated to Python using scikit-learn.
+
+<br>
+
+| Version: 5.1 (Last C++ Version) | Year: 2014 | Language: C++ |
+| :--- | :--- | :--- |
+
+Minor tweaks to support legacy language model and chatbot projects.
+
+Status:
+- Current C++ version.
+- Incomplete. 
+
+<br>
+
+| Version: 6.0-FX | Year: 2017 | Language: Python |
+| :--- | :--- | :--- |
+
+Complete rewrite using Keras and scikit-learn. Specialized for financial time series prediction.
+
+Applications:
+
+- Numerai financial time-series machine learning competition. Numerai models built using this version regularly finished in the top 50. The best position was 35th.
+
+- Forex trading models integrated with C#.NET cAlgo (cTrader) trading bots. 
+
+<br>
+
+| Version: 6.0-NLP | Year: 2018 | Language: Python |
+| :--- | :--- | :--- |
+
+Language model specialised version using OpenAI GPT-1.
+
+Applications:
+
+- Used to replace all my own legacy language models with GPT-1 based variations. Bittersweet project, in that all my own personal language model research was now overshadowed by transformer based models like OpenAI GPT.
+
+<br>
+
+| * Version: 6.1-NLP | Year: 2019 | Language: Python |
+| :--- | :--- | :--- |
+
+Updated to support OpenAI GPT-2.
+
+Applications:
+
+- RAG (Retreval Augmented Generation) enabled chatbot research projects. 
+
+
 
 
 

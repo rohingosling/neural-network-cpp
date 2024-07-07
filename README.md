@@ -140,6 +140,29 @@ Supported Optimization Algorithms:
 - Monte Carlo
 - Simulated Annealing
 
+<br>
+
+| Version: 3.0 | Year: 1994 | Language: C++, 80x86 Assembly Language |
+| :--- | :--- | :--- |
+
+Complete OOP rewrite in C++, targeting an AMD 80486 DOS machine with 2GB of RAM. Code was written using Borland Turbo C++ 3.0.
+
+Same functionality and features as version 2.2, but rewritten in C++ and upgraded memory management with support for up to 500 million weights (parameters).
+
+<br>
+
+| Version: 3.1 | Year: 1995 | Language: C++, 80x86 Assembly Language |
+| :--- | :--- | :--- |
+
+Upgraded version designed to work with a suite of additional machine learning classes including `RecurrentNeuralNetwork` which was a class that implemented an RNN.
+
+Applications:
+
+- Bug simulator, simulating bugs in a fluid that learned how to hunt and avoid being eaten by other bugs.
+
+- Upgraded stock market prediction model, used in conjunction with the `RecurrentNeuralNetwork` class to add better time series modeling accuracy.
+
+- Upgraded chatbot, used in conjunction with the `RecurrentNeuralNetwork` class to create a time series-based language model.
 
 
 

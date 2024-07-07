@@ -39,6 +39,20 @@
   different options using techniques like grid search or random search to find the best-performing combination
   for your situation.
 
+## To-Do:
+1. Add support for different types of weight initialization.
+ 
+- Xavier/Glorot Initialization:
+  This method works well with activation functions like tanh and sigmoid.
+      
+- He Initialization:
+  This method works well with activation functions like ReLU.
+ 
+2. Change the propagate methods to PropagateForward and PropagateBackward.
+ 
+3. Add a log file. 
+
+
 ## Version History:
 *Ordered by year.*
 
@@ -250,11 +264,11 @@ Language model specialised version using OpenAI GPT-1.
 
 Applications:
 
-- Used to replace all my own legacy language models with GPT-1 based variations. Bittersweet project, in that all my own personal language model research was now overshadowed by transformer based models like OpenAI GPT.
+- Used to replace all my own legacy language models with GPT-1 based variations. Bittersweet project, in that all my own personal language model research was now overshadowed by transformer-based models like OpenAI GPT.
 
 <br>
 
-| * Version: 6.1-NLP | Year: 2019 | Language: Python |
+| Version: 6.1-NLP | Year: 2019 | Language: Python |
 | :--- | :--- | :--- |
 
 Updated to support OpenAI GPT-2.

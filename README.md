@@ -40,17 +40,15 @@
   for your situation.
 
 ## To-Do:
-1. Add support for different types of weight initialization.
+1. Re-add support for different types of weight initialization.
  
-- Xavier/Glorot Initialization:
-  This method works well with activation functions like tanh and sigmoid.
+-- Xavier/Glorot Initialization:
+   This method works well with activation functions like tanh and sigmoid.
       
-- He Initialization:
-  This method works well with activation functions like ReLU.
+-- He Initialization:
+   This method works well with activation functions like ReLU.
  
-2. Change the propagate methods to PropagateForward and PropagateBackward.
- 
-3. Add a log file. 
+2. Add a log file. 
 
 
 ## Version History:

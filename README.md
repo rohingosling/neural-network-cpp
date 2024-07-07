@@ -164,6 +164,52 @@ Applications:
 
 - Upgraded chatbot, used in conjunction with the `RecurrentNeuralNetwork` class to create a time series-based language model.
 
+<br>
+
+| Version: 3.2, 3.3, 3.4 | Year: 2000 | Language: C++, 80x86 Assembly Language |
+| :--- | :--- | :--- |
+
+Series of incremental improvements from 1996 to 2000 based on new learnings while studying (BSc computer science). 
+
+<br>
+
+| Version: 3.5 | Year: 2001 | Language: C++ |
+| :--- | :--- | :--- |
+
+Major rewrite of all machine learning classes, to port all code written using Borland Turbo C++, to Borland C++ Builder.
+
+Applications:
+
+- Started focusing on Forex market regression and classification models.
+
+- Upgraded language model for chatbots, focusing on learning First Order Logic (FOL) patterns to improve reasoning.
+
+<br>
+
+| Version: 4.0 | Year: 2008 | Language: C++, 80x86 Assembly Language |
+| :--- | :--- | :--- |
+
+Complete rewrite to support training using parallel computing with a GPU. Used Assembly again after a long pause from the assembly, to access my Nvidia GeForce instruction set.
+
+Applications:
+
+- Mostly ongoing language model research focusing on training logic and reasoning.
+
+<br>
+
+| Version: 4.1 | Year: 2011 | Language: C++ |
+| :--- | :--- | :--- |
+
+Upgrade to use Nvidia CUDA API.
+
+Note:
+Work on my C++ machine learning suite of classes winding down, as most new work and research is migrating to Python.
+
+
+
+
+
+
 
 
 

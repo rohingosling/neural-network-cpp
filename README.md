@@ -119,5 +119,29 @@ Another fun "retro-computing" project to upgrade the Commodore 64 version to use
 
 Upgrade to 2.0, which replaced slow C functions with inline 80x86 Assembler versions of those functions. Everything else was the same as version 2.0, but with faster convergence.
 
+<be>
+
+| Version: 2.2 | Year: 1993 | Language: C, 80x86 Assembly Language |
+| :--- | :--- | :--- |
+
+Added support for additional activation functions, loss functions, and optimization functions.
+
+Supported Activation Functions:
+- Linear
+- Sigmoid
+- TanH
+
+Supported LossFunctions:
+- MSE (Mean Squared Error)
+- CE  (Cross-Entropy)
+
+Supported Optimization Algorithms:
+- Backpropagation
+- Monte Carlo
+- Simulated Annealing
+
+
+
+
 
 

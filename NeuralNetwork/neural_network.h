@@ -41,8 +41,8 @@ public:
     // Public methods. 
 
     void           Train                         ( const MathAI::Matrix& training_data_x, const MathAI::Matrix& training_data_y );
-    MathAI::Vector Predict               ( const MathAI::Vector& input );
-    int            Classify           ( const MathAI::Vector& input );
+    MathAI::Vector Predict                       ( const MathAI::Vector& input );
+    int            Classify                      ( const MathAI::Vector& input );
     string         ToString                      () const;
     string         ActivationFunctionToString    ( ActivationFunction    activation_function    ) const;
     string         LossFunctionToString          ( LossFunction          loss_function          ) const;

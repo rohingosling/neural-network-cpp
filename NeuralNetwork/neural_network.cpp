@@ -17,7 +17,7 @@
 //   - Hidden Layers:
 // 
 //     - The most common activation function for hidden layers in regression problems is the Rectified Linear 
-//       Unit ( ReLU ).// 
+//       Unit ( ReLU ).
 //     - ReLU allows gradients to flow back efficiently during training ( avoiding vanishing gradients ) and can 
 //       model non-linear relationships well.
 //     - Other options include Leaky ReLU, which addresses the "dying ReLU" problem, or even parametric ReLU ( PReLU ) 

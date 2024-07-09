@@ -1,4 +1,0 @@
-﻿  neural_network.cpp
-X:\Projects\neural_network_cpp_2\NeuralNetwork\NeuralNetwork\neural_network.cpp(87,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-X:\Projects\neural_network_cpp_2\NeuralNetwork\NeuralNetwork\neural_network.cpp(88,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  NeuralNetwork.vcxproj -> X:\Projects\neural_network_cpp_2\NeuralNetwork\NeuralNetwork\x64\Debug\NeuralNetwork.exe

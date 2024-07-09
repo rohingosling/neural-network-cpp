@@ -1,4 +1,22 @@
 # General Purpose Multi-layer Perceptron Network Class
+
+A Python application to ping a specified host, log the results to a CSV file, and print statistics to the console. The project supports configurable packet sizes and optional CSV logging.
+
+## Table of Contents
+1. [Installation](#installation)
+2. [Features](#features)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact Information](#contact-information)
+7. [Acknowledgements](#acknowledgements)
+
+## Installation:
+...To do.
+
+## Features:
+...To do. 
+
 ## Usage:
 ### Regression Problems :
 - **Hidden Layers:**
@@ -50,6 +68,8 @@
  
 2. Add a log file. 
 
+## Contributing:
+... To do.
 
 ## Version History:
 *Ordered by year.*

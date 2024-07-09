@@ -17,7 +17,7 @@
 //   - Hidden Layers:
 // 
 //     - The most common activation function for hidden layers in regression problems is the Rectified Linear 
-//       Unit ( ReLU ).
+//       Unit ( ReLU ). 
 //     - ReLU allows gradients to flow back efficiently during training ( avoiding vanishing gradients ) and can 
 //       model non-linear relationships well.
 //     - Other options include Leaky ReLU, which addresses the "dying ReLU" problem, or even parametric ReLU ( PReLU ) 
@@ -378,7 +378,7 @@ void NeuralNetwork::InitializeWeights ()
 
     for ( size_t i = 0; i < m_layers.size () - 1; ++i )
     {
-        int layer_size = m_layers [ i ];
+        int layer_size      = m_layers [ i ];
         int layer_size_next = m_layers [ i + 1 ];
 
         MathAI::Vector layer_weight_vector ( layer_size_next * layer_size );
@@ -514,17 +514,17 @@ void NeuralNetwork::Train ( const MathAI::Matrix& training_data_x, const MathAI:
             MathAI::Matrix weight_gradients ( m_weight_vectors.size () );     // Initialize weight gradients for this batch.
             MathAI::Matrix bias_gradients   ( m_bias_vectors.size   () );     // Initialize bias gradients for this batch.
 
-            InitializeGradients ( weight_gradients, bias_gradients );   // Set gradients to zero.
+            InitializeGradients ( weight_gradients, bias_gradients );         // Set gradients to zero.
 
             // Iterate over each sample in the current training batch.
 
             for ( int sample_index = 0; sample_index < batch_sample_count; ++sample_index )
             {
-                size_t   batch_sample_index = batch_index * batch_sample_count + sample_index;                              // Calculate the global sample index.
-                MathAI::Matrix activations        = PropagateForward  ( training_data_x [ batch_sample_index ] );                 // Perform forward pass.
-                MathAI::Matrix error_gradients    = PropagateBackward ( activations, training_data_y [ batch_sample_index ] );    // Perform backward pass.
+                size_t   batch_sample_index    = batch_index * batch_sample_count + sample_index;                              // Calculate the global sample index.
+                MathAI::Matrix activations     = PropagateForward  ( training_data_x [ batch_sample_index ] );                 // Perform forward pass.
+                MathAI::Matrix error_gradients = PropagateBackward ( activations, training_data_y [ batch_sample_index ] );    // Perform backward pass.
 
-                AccumulateGradients ( activations, error_gradients, weight_gradients, bias_gradients );  // Accumulate gradients.
+                AccumulateGradients ( activations, error_gradients, weight_gradients, bias_gradients );                        // Accumulate gradients.
             }
 
             UpdateWeightsAndBiases ( weight_gradients, bias_gradients );  // Update weights and biases using accumulated gradients.

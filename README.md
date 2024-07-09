@@ -1,6 +1,5 @@
 # General Purpose Multi-layer Perceptron Network Class
-
-General-purpose neural network class.
+- General-purpose neural network class.
 - Can be used for both regression and classification problems.
 
 ## Table of Contents

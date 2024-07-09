@@ -10,6 +10,8 @@ A Python application to ping a specified host, log the results to a CSV file, an
 5. [License](#license)
 6. [Contact Information](#contact-information)
 7. [Acknowledgements](#acknowledgements)
+8. [To-Do](#to-do)
+9. [Version History](#version-history)
 
 ## Installation:
 ...To do.
@@ -57,6 +59,21 @@ A Python application to ping a specified host, log the results to a CSV file, an
   different options using techniques like grid search or random search to find the best-performing combination
   for your situation.
 
+## Contributing
+Contributions are welcome! Please follow the contribution guidelines.
+1. Fork the project.
+2. Create your feature branch (git checkout -b feature/AmazingFeature).
+3. Commit your changes (git commit -m 'Add some AmazingFeature').
+4. Push to the branch (git push origin feature/AmazingFeature).
+5. Open a pull request.
+
+## License
+Distributed under the MIT License. See LICENSE for more information.
+
+## Contact Information
+- Twitter: [@rohingosling](https://x.com/rohingosling)
+- Project Link: [https://github.com/your-username/your-repo](https://github.com/rohingosling/pinger)
+
 ## To-Do:
 1. Re-add support for different types of weight initialization.
  
@@ -67,9 +84,6 @@ A Python application to ping a specified host, log the results to a CSV file, an
      This method works well with activation functions like ReLU.
  
 2. Add a log file. 
-
-## Contributing:
-... To do.
 
 ## Version History:
 *Ordered by year.*

@@ -1,6 +1,7 @@
 # General Purpose Multi-layer Perceptron Network Class
 
-A Python application to ping a specified host, log the results to a CSV file, and print statistics to the console. The project supports configurable packet sizes and optional CSV logging.
+General-purpose neural network class.
+- Can be used for both regression and classification problems.
 
 ## Table of Contents
 1. [Installation](#installation)

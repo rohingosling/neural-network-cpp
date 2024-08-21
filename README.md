@@ -62,6 +62,9 @@
   A neural network trained to add two integers.  
   $y = f ( x_0, x_1 ) \hspace{0.5cm} ...Where \hspace{2mm} f ( x_0, x_1 ) = x_0 + x_1, \hspace{4mm} x_0 \in \mathbb{Z}, \hspace{4mm} x_1 \in \mathbb{Z}$
 
+- Initialisation Code:
+  ![Image](NeuralNetwork/images/ANN - 1.3.png)
+
 ## Contributing
 Contributions are welcome! Please follow the contribution guidelines.
 1. Fork the project.

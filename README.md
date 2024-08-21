@@ -4,20 +4,16 @@
 
 ## Table of Contents
 1. [Installation](#installation)
-2. [Features](#features)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
-6. [Contact Information](#contact-information)
-7. [Acknowledgements](#acknowledgements)
-8. [To-Do](#to-do)
-9. [Version History](#version-history)
+2. [Overview](#overview)
+3. [Contributing](#contributing)
+4. [License](#license)
+5. [Contact Information](#contact-information)
+6. [Acknowledgements](#acknowledgements)
+7. [To-Do](#to-do)
+8. [Version History](#version-history)
 
 ## Installation:
 ...To do.
-
-## Features:
-...To do. 
 
 ## Usage:
 ### Regression Problems :

@@ -59,9 +59,10 @@
 ## Example Use Case
 
 - Goal:
+  
   A neural network trained to add two integers.
   
-  $y = f ( x_0, x_1 ) \hspace{2cm} ...Where \hspace{2mm} y = X_0 + Y_0$ 
+  $y = f ( x_0, x_1 ) \hspace{1cm} ...Where \hspace{2mm} y = X_0 + Y_0$ 
 
 ## Contributing
 Contributions are welcome! Please follow the contribution guidelines.

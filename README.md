@@ -90,6 +90,10 @@
   
   ![Image](NeuralNetwork/images/ann_1_1.png)
 
+- Test Run:
+
+  ![Image](NeuralNetwork/output_3_0.png)
+
 ## Contributing
 Contributions are welcome! Please follow the contribution guidelines.
 1. Fork the project.

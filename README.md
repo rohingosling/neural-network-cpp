@@ -66,7 +66,7 @@
 
 - Initialisation Code:
 
-  ![Image](NeuralNetwork/images/ann_2_0.png)
+  ![Image](NeuralNetwork/images/ann_2_0.png)  
 
   ```C++
   // Initialise neural network.

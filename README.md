@@ -5,12 +5,13 @@
 ## Table of Contents
 1. [Installation](#installation)
 2. [Overview](#overview)
-3. [Contributing](#contributing)
-4. [License](#license)
-5. [Contact Information](#contact-information)
-6. [Acknowledgements](#acknowledgements)
-7. [To-Do](#to-do)
-8. [Version History](#version-history)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact Information](#contact-information)
+7. [Acknowledgements](#acknowledgements)
+8. [To-Do](#to-do)
+9. [Version History](#version-history)
 
 ## Installation:
 ...To do.
@@ -54,6 +55,8 @@
 - Experimentation is often key. It's a good practice to start with the recommended choices above and then compare
   different options using techniques like grid search or random search to find the best-performing combination
   for your situation.
+
+## Usage
 
 ## Contributing
 Contributions are welcome! Please follow the contribution guidelines.

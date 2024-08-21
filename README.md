@@ -63,7 +63,10 @@
   $y = f ( x_0, x_1 ) \hspace{0.5cm} ...Where \hspace{2mm} f ( x_0, x_1 ) = x_0 + x_1, \hspace{4mm} x_0 \in \mathbb{Z}, \hspace{4mm} x_1 \in \mathbb{Z}$
 
 - Initialisation Code:
-  
+  - Architecture:
+    - Layer 1 (Input): 2
+    - Layer 2 (Hidden): 3
+    - Layer 3 (Output): 1
   ![Image](NeuralNetwork/images/ann_1_1.png)
 
 ## Contributing

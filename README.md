@@ -2,6 +2,8 @@
 - General-purpose neural network class.
 - Can be used for both regression and classification problems.
 
+  ![Image](NeuralNetwork/images/ann_1_0.png)
+
 ## Table of Contents
 1. [Installation](#installation)
 2. [Overview](#overview)
@@ -64,7 +66,7 @@
 
 - Initialisation Code:
 
-  ![Image](NeuralNetwork/images/ann_1_0.png)
+  ![Image](NeuralNetwork/images/ann_2_0.png)
 
   ```C++
   // Initialise neural network.

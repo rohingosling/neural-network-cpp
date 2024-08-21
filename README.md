@@ -88,7 +88,7 @@
   );
   ```
   
-  ![Image](NeuralNetwork/images/ann_1_1.png)
+  ![Image](NeuralNetwork/images/ann_4_0.png)
 
 - Test Run:
   

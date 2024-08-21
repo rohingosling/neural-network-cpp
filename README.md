@@ -15,7 +15,7 @@
 ## Installation:
 ...To do.
 
-## Usage:
+## Overview:
 ### Regression Problems :
 - **Hidden Layers:**
   - The most common activation function for hidden layers in regression problems is the Rectified Linear 

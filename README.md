@@ -92,7 +92,7 @@
 
 - Test Run:
 
-  ![Image](NeuralNetwork/output_3_0.png)
+  ![Image](NeuralNetwork/images/output_3_0.png)
 
 ## Contributing
 Contributions are welcome! Please follow the contribution guidelines.

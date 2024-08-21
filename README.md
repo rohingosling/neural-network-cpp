@@ -91,7 +91,7 @@
   ![Image](NeuralNetwork/images/ann_1_1.png)
 
 - Test Run:
-
+  
   ![Image](NeuralNetwork/images/output_3_0.png)
   
 

@@ -60,8 +60,7 @@
 
 - Goal:
   
-  A neural network trained to add two integers.
-  
+  A neural network trained to add two integers.  
   $y = f ( x_0, x_1 ) \hspace{0.5cm} ...Where \hspace{2mm} y = x_0 + y_0$ 
 
 ## Contributing

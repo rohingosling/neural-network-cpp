@@ -5,7 +5,7 @@
 ## Table of Contents
 1. [Installation](#installation)
 2. [Overview](#overview)
-3. [Usage](#usage)
+3. [Example Use Case](#example-use-case)
 4. [Contributing](#contributing)
 5. [License](#license)
 6. [Contact Information](#contact-information)
@@ -56,7 +56,7 @@
   different options using techniques like grid search or random search to find the best-performing combination
   for your situation.
 
-## Usage
+## Example Use Case
 
 ## Contributing
 Contributions are welcome! Please follow the contribution guidelines.

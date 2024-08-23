@@ -2,7 +2,7 @@
 - General-purpose neural network class.
 - Can be used for both regression and classification problems.
 
-  ![Image](NeuralNetwork/images/ann_0_2.png)
+  ![Image](NeuralNetwork/images/ann_0_0.png)
 
 ## Table of Contents
 1. [Installation](#installation)

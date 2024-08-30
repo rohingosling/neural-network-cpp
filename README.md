@@ -158,14 +158,14 @@ Because the VIC20 had less than 5k of usable RAM, the training data was generate
 **Example:**
 ```
 x0     x1     x2     y      Comment
-0.001  0.001  0.000  0.002  Addition:        1 + 1 = 2
-0.005  0.015  0.000  0.020  Addition:       5 + 15 = 20
-0.100  0.010  0.333  0.090  Subtraction:  100 - 10 = 90
-0.009  0.001  0.333  0.008  Subtraction:     9 - 1 = 8
-0.002  0.002  0.666  0.004  Multiplication:  2 * 2 = 4
-0.012  0.003  0.666  0.036  Multiplication: 12 * 3 = 36
-0.009  0.003  0.666  0.003  Multiplication:  9 / 3 = 3
-0.010  0.002  0.666  0.005  Multiplication: 10 / 2 = 5
+0.001  0.001  0.000  0.002  Addition:          1 + 1 = 2
+0.005  0.015  0.000  0.020  Addition:         5 + 15 = 20
+0.100  0.010  0.333  0.090  Subtraction:    100 - 10 = 90
+0.009  0.001  0.333  0.008  Subtraction:       9 - 1 = 8
+0.002  0.002  0.666  0.004  Multiplication:    2 * 2 = 4
+0.012  0.003  0.666  0.036  Multiplication:   12 * 3 = 36
+0.009  0.003  0.666  0.003  Multiplication:    9 / 3 = 3
+0.010  0.002  0.666  0.005  Multiplication:   10 / 2 = 5
 ```
 
 <br>

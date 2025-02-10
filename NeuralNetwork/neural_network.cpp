@@ -179,7 +179,7 @@
 //                                    language model.
 // 
 //   3.2,3,4 2000   C++ (C++2.1)    Series of incremental improvements from 1996 to 2000 based on new
-//                  80x86 Assembly  learnings while studying (BSc computer science). 
+//                                  80x86 Assembly  learnings while studying (BSc computer science). 
 // 
 //   3.5     2001   C++ (C++98)     Major rewrite of all machine learning classes, to port all code 
 //                                  written using Borland Turbo C++, to Borland C++ Builder.
@@ -193,8 +193,8 @@
 //                                    Order Logic (FOL) patterns to improve reasoning.                                    
 // 
 //   4.0     2008   C++ (C++98)     Complete rewrite to support training using parallel computing with    
-//                  80x86 Assembly  a GPU. Used assembly again after a long pause from assembly, to 
-//                                  access my Nvidia GeForce instruction set.
+//                                  80x86 Assembly  a GPU. Used assembly again after a long pause from 
+//                                  assembly, to access my Nvidia GeForce instruction set.
 // 
 //                                  Applications:
 // 
@@ -208,7 +208,7 @@
 //                                  most new work and research is migrating to Python.
 // 
 //   5.0     2013   C++ (C++11)     Complete rewrite from scratch to support new framework for 
-//Integrating existing ML classes to work with C# .NET trading bots
+//                                  Integrating existing ML classes to work with C# .NET trading bots
 //                                  written for the cTrader cAlgo Forex trading platform.
 // 
 //                                  Status:

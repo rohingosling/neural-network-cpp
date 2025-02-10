@@ -335,7 +335,8 @@ Applications:
 | :--- | :--- | :--- |
 
 Language model specialised version, employing experimental integrating with OpenAI GPT-3 API.
-Also the laster version of the class. No further versions of updates made.
+
+Also the last version of the class. No further versions of updates made.
 
 Applications:
 

@@ -277,7 +277,7 @@ Applications:
 | Version: 4.0 | Year: 2008 | Language: C++, 80x86 Assembly Language |
 | :--- | :--- | :--- |
 
-Complete rewrite to support training using parallel computing with a GPU. Used Assembly again after a long pause from the assembly, to access my Nvidia GeForce instruction set.
+Complete rewrite to support training using parallel computing with a GPU. Used Assembly again after a long pause from assembly, to access my Nvidia GeForce instruction set.
 
 Applications:
 

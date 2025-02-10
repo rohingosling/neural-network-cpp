@@ -4,8 +4,7 @@
 // Version:     5.1
 // Date:        2014-08-02
 // Author:      Rohin Gosling
-// 
-// 
+//
 // Description:
 //
 //   General purpose neural network class, supporting both regression and classification models.

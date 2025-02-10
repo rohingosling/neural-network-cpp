@@ -236,21 +236,14 @@
 //                                  - Forex trading models integrated with C#.NET cAlgo (cTrader)
 //                                    trading bots. 
 // 
-//   6.0-NLP 2018   Python          Language model specialized version using OpenAI GPT-1.
+//   6.0-NLP 2028   Python          Language model specialized version integrating OpenAI GPT-3.
 // 
 //                                  Applications:
 // 
-//                                  - Used to replace all my own legacy language models with GPT-1
+//                                  - Used to replace all my own legacy language models with GPT-3
 //                                    based variations. Bittersweet project, in that all my own 
 //                                    personal language model research was now overshadowed by 
 //                                    transformer-based models like OpenAI GPT.
-// 
-//   6.1-NLP 2019   Python          Updated to support OpenAI GPT-2.
-// 
-//                                  Applications:
-// 
-//                                  - RAG (Retrieval Augmented Generation) enabled chatbot research
-//                                    projects. 
 // 
 //   ------- ------ --------------- --------------------------------------------------------------------
 // 

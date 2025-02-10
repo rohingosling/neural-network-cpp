@@ -137,7 +137,7 @@ First attempt at building an ANN, on a Commodore VIC20. A variation of the Monte
 
 **Note:**
 - I did not know how to implement Backpropagation at the time, hence the use of MC.
-- It later turned out, by accident really, that MC offered faster convergence, when I later learned how to implement Backpropagation and compared it with MC.
+- It later turned out, by accident really, that MC offered convergence to more accurate solutions, when I later learned how to implement Backpropagation and compared it with MC.
 
 This initial VIC20 version of the ANN was able to support up to 256 weights (parameters). While not very practical, it was enough to test the ANN on a learning task to learn how to compute binary mathematical operators on 16-bit numbers.
 

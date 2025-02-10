@@ -224,27 +224,6 @@
 //                                  - Current C++ version.
 //                                  - Incomplete. 
 // 
-//   6.0-FX  2017   Python          Complete rewrite using Keras and scikit-learn.
-//                                  Specialised in financial time series prediction.
-//                                  
-//                                  Applications:
-// 
-//                                  - Numerai financial time-series machine learning competition.
-//                                    Numerai models built using this version regularly finished in the
-//                                    top 50. Best position was 35th.
-// 
-//                                  - Forex trading models integrated with C#.NET cAlgo (cTrader)
-//                                    trading bots. 
-// 
-//   6.0-NLP 2028   Python          Language model specialized version integrating OpenAI GPT-3.
-// 
-//                                  Applications:
-// 
-//                                  - Used to replace all my own legacy language models with GPT-3
-//                                    based variations. Bittersweet project, in that all my own 
-//                                    personal language model research was now overshadowed by 
-//                                    transformer-based models like OpenAI GPT.
-// 
 //   ------- ------ --------------- --------------------------------------------------------------------
 // 
 // To-Do:

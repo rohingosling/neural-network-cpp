@@ -331,25 +331,18 @@ Applications:
 
 <br>
 
-| Version: 6.0-NLP | Year: 2018 | Language: Python |
+| Version: 6.0-NLP | Year: 2020 | Language: Python |
 | :--- | :--- | :--- |
 
-Language model specialised version using OpenAI GPT-1.
+Language model specialised version, employing experimental integrating with OpenAI GPT-3 API.
+Also the laster version of the class. No further versions of updates made.
 
 Applications:
 
-- Used to replace all my own legacy language models with GPT-1 based variations. Bittersweet project, in that all my own personal language model research was now overshadowed by transformer-based models like OpenAI GPT.
+- Used to replace all my own legacy language models with GPT-3 based variations.
+- Bittersweet project, in that all my own personal language model research was now overshadowed by transformer-based models like OpenAI GPT.
 
 <br>
-
-| Version: 6.1-NLP | Year: 2019 | Language: Python |
-| :--- | :--- | :--- |
-
-Updated to support OpenAI GPT-2.
-
-Applications:
-
-- RAG (Retreval Augmented Generation) enabled chatbot research projects. 
 
 
 

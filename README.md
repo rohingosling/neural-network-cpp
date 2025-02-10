@@ -189,7 +189,7 @@ The market prediction model I employed at the time, used a classification model 
 | Version: 1.2 | Year: 1993 | Language: 6502 Machine Language |
 | :--- | :--- | :--- |
 
-Fun "retro-computing" project, to upgrade my original Commodore VIC20 code to support a Commodore 64, after being donated a Commodore 64 from my girlfriend at the time.
+Fun "retro-computing" project, to upgrade my original Commodore VIC20 code to support a Commodore 64, after being donated a Commodore 64.
 
 This version supported up to 16,000 weights. I tested it with simulated stock market data. The results showed that theoretically, an ANN implemented on a Commodore 64 could, in theory, be used for practical stock market prediction and classification tasks in the 1980s, had it been built in the 1980s.
 
@@ -198,7 +198,7 @@ This version supported up to 16,000 weights. I tested it with simulated stock ma
 | Version: 1.3 | Year: 1993 | Language: 6502 Machine Language |
 | :--- | :--- | :--- |
 
-Another fun "retro-computing" project to upgrade the Commodore 64 version to use Backpropagation. After getting this to work, I discovered that the Monte Carlo (MC) method I had employed in the original version was actually faster, and better at finding solutions closer to a global optima.                                 
+Another fun "retro-computing" project to upgrade the Commodore 64 version to use Backpropagation.                                 
 
 <br>
 

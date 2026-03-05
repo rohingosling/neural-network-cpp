@@ -334,9 +334,9 @@ Applications:
 | Version: 6.0-NLP | Year: 2020 | Language: Python |
 | :--- | :--- | :--- |
 
-Language model specialised version, employing experimental integrating with OpenAI GPT-3 API.
+Language model specialised version, employing experimental integration with OpenAI GPT-3 API.
 
-Also the last version of the class. No further versions of updates made.
+Also, the last version of the class. No further versions made.
 
 Applications:
 

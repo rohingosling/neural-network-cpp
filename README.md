@@ -1,16 +1,12 @@
 # General Purpose Multi-layer Perceptron Network Class
+
+<p align="center">
+  <img src="NeuralNetwork/images/ann_0_3.png" width="80%" alt="Animated Gaussian metaball isosurface">
+</p>
+
 - General-purpose neural network class.
 - Can be used for both regression and classification problems.
 
-<p align="center">
-
-  <img src="NeuralNetwork/images/ann_0_3.png" width="80%" alt="Animated Gaussian metaball isosurface">
-
-</p>
-
-<br>
-
-![Image](NeuralNetwork/images/ann_0_3.png)
 
 ## Table of Contents
 1. [Installation](#installation)
